@@ -15,9 +15,10 @@ description: This is the home page of Adobe Stock APIs
 
 # Build a better business with Adobe Stock.
 
-Give your users access to stunning Adobe Stock high-quality images, graphics, and videos to use in their ads, email templates, and websites. It’s a great way to increase customer satisfaction and generate additional revenue—and it’s easy to implement. Interested in partnering with Adobe Stock, or want to learn more about our plans and pricing options? [Contact us](mailto:Grp-AdobeStockPartnerships@adobe.com?subject=AdobeI/O), and please include [Adobe I/O] in the subject line.
+Give your users access to stunning Adobe Stock high-quality images, graphics, and videos to use in their ads, email templates, and websites. It’s a great way to increase customer satisfaction and generate additional revenue—and it’s easy to implement. 
 
-* [Get started](https://www.adobe.io/apis/creativecloud/stock/docs.html)
+* [Get started](https://developer.adobe.com/stock/docs/getting-started/)
+* [Business use case information](https://developer.adobe.com/stock/docs/faq/stock-api-business-faq/)
 
 <TitleBlock slots="heading" theme="dark" />
 
@@ -74,27 +75,6 @@ Earn referral fees for including the search API or banners on your site.
 Search and license Adobe Stock images right inside Microsoft PowerPoint and Microsoft Teams, thanks to a strategic partnership between Adobe and Microsoft.
 
 - [Try it now](https://store.office.com/en-us/app.aspx?assetid=WA104380902)
-
-<TextBlock slots="image, heading, text, links" width="25%" theme="light" isCentered />
-
-
-![Google Logo](images/google-logo.png)
-
-### Google
-
-Add more polish to presentations with the Adobe Stock add-on for Google Slides. Find images by keywords or visual search and browse curated collections.
-
-- [Get the add-on](https://chrome.google.com/webstore/detail/adobe-stock/hlademlgjnbejekiikfjchnggniijlpe)
-
-<TextBlock slots="image, heading, text, links" width="25%" theme="light" isCentered />
-
-![Hootsuite Logo](images/adobe-io-logos-hoot.svg)
-
-### Hootsuite
-
-Get access to Adobe Stock inside Hootsuite, the most widely used social media management Platform, and publish content instantly to your channels.
-
-- [Learn more](https://hootsuite.com/pages/adobe)
 
 <TextBlock slots="image, heading, text, links" width="25%" theme="light" isCentered />
 
