@@ -15,9 +15,10 @@ description: This is the home page of Adobe Stock APIs
 
 # Build a better business with Adobe Stock.
 
-Give your users access to stunning Adobe Stock high-quality images, graphics, and videos to use in their ads, email templates, and websites. It’s a great way to increase customer satisfaction and generate additional revenue—and it’s easy to implement. Interested in partnering with Adobe Stock, or want to learn more about our plans and pricing options? [Contact us](mailto:Grp-AdobeStockPartnerships@adobe.com?subject=AdobeI/O), and please include [Adobe I/O] in the subject line.
+Give your users access to stunning Adobe Stock high-quality images, graphics, and videos to use in their ads, email templates, and websites. It’s a great way to increase customer satisfaction and generate additional revenue—and it’s easy to implement. 
 
-* [Get started](https://www.adobe.io/apis/creativecloud/stock/docs.html)
+* [Get started](https://developer.adobe.com/stock/docs/getting-started/)
+* [Business use case information](https://developer.adobe.com/stock/docs/faq/stock-api-business-faq/)
 
 <TitleBlock slots="heading" theme="dark" />
 
@@ -75,26 +76,6 @@ Search and license Adobe Stock images right inside Microsoft PowerPoint and Micr
 
 - [Try it now](https://store.office.com/en-us/app.aspx?assetid=WA104380902)
 
-<TextBlock slots="image, heading, text, links" width="25%" theme="light" isCentered />
-
-
-![Google Logo](images/google-logo.png)
-
-### Google
-
-Add more polish to presentations with the Adobe Stock add-on for Google Slides. Find images by keywords or visual search and browse curated collections.
-
-- [Get the add-on](https://chrome.google.com/webstore/detail/adobe-stock/hlademlgjnbejekiikfjchnggniijlpe)
-
-<TextBlock slots="image, heading, text, links" width="25%" theme="light" isCentered />
-
-![Hootsuite Logo](images/adobe-io-logos-hoot.svg)
-
-### Hootsuite
-
-Get access to Adobe Stock inside Hootsuite, the most widely used social media management Platform, and publish content instantly to your channels.
-
-- [Learn more](https://hootsuite.com/pages/adobe)
 
 <TextBlock slots="image, heading, text, links" width="25%" theme="light" isCentered />
 
@@ -125,15 +106,6 @@ Adobe Stock's enterprise grade search API opens new doors to developers, compani
 ### Get Paid to Search Adobe Stock!¹ - Adobe Tech Blog - Medium
 
 You can earn commissions from hosting Adobe Stock search and banners on your website.
-
-<TextBlock slots="video, heading, text" />
-
-[Adobe Stock Video](https://www.youtube.com/watch?v=uCcgozf0qVE&feature=youtu.be&ab_channel=AdobeDevelopers) 
-
-### Adobe Stock for Developers
-
-The Adobe I/O platform for our APIs makes it easier for our partners to develop against these APIs. Here's a look at how Adobe Stock is working to expose our search and authentication APIs on Adobe I/O.
-
 
 <SummaryBlock slots="image, heading, text, buttons" background="rgb(9, 90, 186)" />
 
